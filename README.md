@@ -75,7 +75,7 @@ Concrete ways see-through experimentation got easier/faster:
 - Stopped weak runs early and/or cloned promising runs with small knob tweaks (IC Ops: stop/resume/clone-modify). :contentReference[oaicite:0]{index=0}
 - Reduced “sweep overhead” and focused on decisions/tradeoffs.
 
-## 9) Takeaways (3–6 bullets)
+## 9) Takeaways 
 - Reduced “sweep overhead” (less manual checkpoint/log juggling) and focused on decisions/tradeoffs.
 - Expanding LoRA target modules provided better gains than just increasing rank.
 - Next experiment I’d run:
